@@ -8,9 +8,9 @@ A robust, production-ready RESTful API for managing inventory, tracking stock le
 
 | Field | Details |
 | :--- | :--- |
-| **Student Name** | **Anubhav** |
+| **Student Name** | **Srishti** |
 | **Section** | **F** |
-| **Roll Number** | **2501730406** |
+| **Roll Number** | **2501730380** |
 | **Course / Assignment** | **Lab 3 - Inventory Management System** |
 
 ---
@@ -96,9 +96,9 @@ Base URL: `http://localhost:5000`
   {
     "message": "Inventory Management API is running",
     "developer": {
-      "name": "Anubhav",
+      "name": "Srishti",
       "section": "F",
-      "rollNo": "2501730406"
+      "rollNo": "2501730380"
     },
     "status": "Active"
   }
@@ -375,9 +375,9 @@ All routes have been verified using Thunder Client. Screenshots of each test cas
    {
      "message": "Inventory Management API is running",
      "developer": {
-       "name": "Anubhav",
+       "name": "Srishti",
        "section": "F",
-       "rollNo": "2501730406"
+       "rollNo": "2501730380"
      },
      "status": "Active"
    }
@@ -387,6 +387,6 @@ All routes have been verified using Thunder Client. Screenshots of each test cas
 
 ## 📜 License & Credits
 
-Developed by **Anubhav** (Section: **F**, Roll No: **2501730406**) for **Lab 3: Inventory Management System**. All rights reserved.
+Developed by **Srishti** (Section: **F**, Roll No: **2501730380**) for **Lab 3: Inventory Management System**. All rights reserved.
 
 # WEB-DEV-III-ASSIGNMENT---3-
