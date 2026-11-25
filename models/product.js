@@ -2,9 +2,9 @@
  * ========================================================
  * Project: Lab 3 - Inventory Management System
  * Model: Product
- * Developer: Anubhav
+ * Developer: Srishti
  * Section: F
- * Roll No: 2501730406
+ * Roll No: 2501730380
  * ========================================================
  */
 
